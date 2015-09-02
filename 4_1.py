@@ -19,7 +19,8 @@ def solve():
 	h=0.01	
 	t=0
 	x=0
-	y=0
+	y=0:// es mejor lol
+		
 	ax=0
 	ay=-9.8
 	theta=37 * pi/180
